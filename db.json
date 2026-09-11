@@ -1,0 +1,29 @@
+{
+  "jogos": [
+    {
+      "id": 1,
+      "nome": "Minecraft",
+      "urlImg": "https://upload.wikimedia.org/wikipedia/en/5/51/Minecraft_cover.png"
+    },
+    {
+      "id": 2,
+      "nome": "Super Mario Bros",
+      "urlImg": "https://upload.wikimedia.org/wikipedia/en/5/50/Super_Mario_Bros._NES_cover.jpg"
+    },
+    {
+      "id": 3,
+      "nome": "The Legend of Zelda",
+      "urlImg": "https://upload.wikimedia.org/wikipedia/en/4/41/Legend_of_Zelda_NES_cover.jpg"
+    },
+    {
+      "id": 4,
+      "nome": "Sonic the Hedgehog",
+      "urlImg": "https://upload.wikimedia.org/wikipedia/en/1/1b/Sonic_the_Hedgehog_1_Genesis_box_art.jpg"
+    },
+    {
+      "id": 5,
+      "nome": "Pokémon",
+      "urlImg": "https://upload.wikimedia.org/wikipedia/en/3/39/Pokemon_Red_and_Blue_cover.png"
+    }
+  ]
+}
